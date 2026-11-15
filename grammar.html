@@ -301,8 +301,7 @@
             try {
                 await loadMasterDictionary('all');
 
-                const resGrammar = await fetch('./data/grammar.json');
-                grammarData = await resGrammar.json();
+                grammarData = await fetchJsonData('grammar.json');
 
                 renderCards();
             } catch (error) {
@@ -317,7 +316,7 @@
             let freqClass = 'high';
             let desc = tipString;
 
-            const match = tipString.match(/출제\s*빈도\s*([상중하])/);
+            const match = tipString.match(/출제\s*빈도\s*(최상|상|중|하)/);
             if (match) {
                 frequency = match[1];
                 if (frequency === '중') freqClass = 'medium';
@@ -358,12 +357,14 @@
                 let examplesHtml = '';
                 item.examples.forEach((ex) => {
                     const parsedZh = parseHanziToTooltip(ex.zh);
+                    const safeZh = escapeForInlineJs(ex.zh);
+                    const safeKo = escapeForInlineJs(ex.ko);
 
                     examplesHtml += `
                         <div class="example-box">
                             <div class="example-header">
                                 <div class="zh-sentence">${parsedZh}</div>
-                                <button class="btn-speak" onclick="speakExample(event, '${ex.zh}', '${ex.ko}')">🔊 읽기</button>
+                                <button class="btn-speak" onclick="speakExample(event, '${safeZh}', '${safeKo}')">🔊 읽기</button>
                             </div>
                             <div class="pinyin-text">${ex.pinyin}</div>
                             <div class="ko-text">${ex.ko}</div>
@@ -371,7 +372,7 @@
                     `;
                 });
 
-                const formattedTipHtml = parseTip(item.tip);
+                const formattedTipHtml = parseTip(item.tip || item.topic);
 
                 card.innerHTML = `
                     <div class="card-header" onclick="toggleCard(this)">

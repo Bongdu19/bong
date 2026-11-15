@@ -5,7 +5,11 @@
     "pinyin": "ài",
     "koPron": "아이",
     "meanings": [
-      { "pos": "동사", "ko": "사랑하다", "en": "To Love" }
+      {
+        "pos": "동사",
+        "ko": "사랑하다",
+        "en": "To Love"
+      }
     ],
     "hanja": "사랑 애(愛)",
     "pronTip": "예쁜 아이(ài)를 사랑하다.",
@@ -20,7 +24,11 @@
     "pinyin": "bā",
     "koPron": "빠",
     "meanings": [
-      { "pos": "수사", "ko": "여덟, 8", "en": "Eight" }
+      {
+        "pos": "수사",
+        "ko": "여덟, 8",
+        "en": "Eight"
+      }
     ],
     "hanja": "여덟 팔(八)",
     "pronTip": "숫자 8을 빠(bā)르게 적다.",
@@ -35,7 +43,11 @@
     "pinyin": "bàba",
     "koPron": "빠바",
     "meanings": [
-      { "pos": "명사", "ko": "아빠", "en": "Father" }
+      {
+        "pos": "명사",
+        "ko": "아빠",
+        "en": "Father"
+      }
     ],
     "hanja": "아비 파(爸)",
     "pronTip": "옹알이하듯 아빠를 빠바(bàba).",
@@ -50,7 +62,11 @@
     "pinyin": "bēizi",
     "koPron": "베이쯔",
     "meanings": [
-      { "pos": "명사", "ko": "잔, 컵", "en": "Cup" }
+      {
+        "pos": "명사",
+        "ko": "잔, 컵",
+        "en": "Cup"
+      }
     ],
     "hanja": "잔 배(杯)",
     "pronTip": "베이(bēi)지색 예쁜 쯔(zi) 잔.",
@@ -65,7 +81,11 @@
     "pinyin": "Běijīng",
     "koPron": "베이징",
     "meanings": [
-      { "pos": "명사", "ko": "베이징", "en": "Beijing" }
+      {
+        "pos": "명사",
+        "ko": "베이징",
+        "en": "Beijing"
+      }
     ],
     "hanja": "북녘 북(北), 서울 경(京)",
     "pronTip": "북(北)쪽의 수도(京), 베이징.",
@@ -80,7 +100,11 @@
     "pinyin": "běn",
     "koPron": "벤",
     "meanings": [
-      { "pos": "양사", "ko": "권", "en": "Volume" }
+      {
+        "pos": "양사",
+        "ko": "권",
+        "en": "Volume"
+      }
     ],
     "hanja": "근본 본(本)",
     "pronTip": "책의 근본(běn)은 세는 것.",
@@ -95,7 +119,11 @@
     "pinyin": "bù",
     "koPron": "부",
     "meanings": [
-      { "pos": "부사", "ko": "~이 아니다, ~하지 않다", "en": "Not" }
+      {
+        "pos": "부사",
+        "ko": "~이 아니다, ~하지 않다",
+        "en": "Not"
+      }
     ],
     "hanja": "아닐 불(不)",
     "pronTip": "아니라고 단호히 부(bù)리치다.",
@@ -110,7 +138,11 @@
     "pinyin": "bú kèqi",
     "koPron": "부 커치",
     "meanings": [
-      { "pos": "인사말", "ko": "천만에요", "en": "You're welcome" }
+      {
+        "pos": "인사말",
+        "ko": "천만에요",
+        "en": "You're welcome"
+      }
     ],
     "hanja": "손 객(客), 기운 기(气)",
     "pronTip": "객(客)처럼 고마워하지 말라(不)!",
@@ -125,7 +157,11 @@
     "pinyin": "cài",
     "koPron": "차에이",
     "meanings": [
-      { "pos": "명사", "ko": "채소, 요리", "en": "Dish" }
+      {
+        "pos": "명사",
+        "ko": "채소, 요리",
+        "en": "Dish"
+      }
     ],
     "hanja": "나물 채(菜)",
     "pronTip": "채(cài)소가 듬뿍 든 요리.",
@@ -140,7 +176,11 @@
     "pinyin": "chá",
     "koPron": "차",
     "meanings": [
-      { "pos": "명사", "ko": "차", "en": "Tea" }
+      {
+        "pos": "명사",
+        "ko": "차",
+        "en": "Tea"
+      }
     ],
     "hanja": "차 다/차(茶)",
     "pronTip": "마시는 차, 발음도 차(chá).",
@@ -155,7 +195,11 @@
     "pinyin": "chī",
     "koPron": "츠",
     "meanings": [
-      { "pos": "동사", "ko": "먹다", "en": "To Eat" }
+      {
+        "pos": "동사",
+        "ko": "먹다",
+        "en": "To Eat"
+      }
     ],
     "hanja": "먹을 흘(吃)",
     "pronTip": "츠츠(chī) 소리 내며 먹다.",
@@ -170,7 +214,11 @@
     "pinyin": "chūzūchē",
     "koPron": "추쭈처",
     "meanings": [
-      { "pos": "명사", "ko": "택시", "en": "Taxi" }
+      {
+        "pos": "명사",
+        "ko": "택시",
+        "en": "Taxi"
+      }
     ],
     "hanja": "날 출(出), 세낼 조(租), 수레 차(车)",
     "pronTip": "돈(조) 내고 빌려 타는 차 = 택시.",
@@ -185,7 +233,11 @@
     "pinyin": "dǎ lánqiú",
     "koPron": "다 란치우",
     "meanings": [
-      { "pos": "동사", "ko": "전화를 걸다", "en": "To Call" }
+      {
+        "pos": "동사",
+        "ko": "전화를 걸다",
+        "en": "To Call"
+      }
     ],
     "hanja": "칠 타(打), 번개 전(电), 말씀 화(话)",
     "pronTip": "다이얼을 치며(打) 전화(话)하다.",
@@ -200,7 +252,11 @@
     "pinyin": "dà",
     "koPron": "따",
     "meanings": [
-      { "pos": "형용사", "ko": "크다", "en": "Big" }
+      {
+        "pos": "형용사",
+        "ko": "크다",
+        "en": "Big"
+      }
     ],
     "hanja": "클 대(大)",
     "pronTip": "크고 좋으니까 따(dà)봉!",
@@ -215,7 +271,11 @@
     "pinyin": "de",
     "koPron": "더",
     "meanings": [
-      { "pos": "조사", "ko": "~의, ~한", "en": "(particle)" }
+      {
+        "pos": "조사",
+        "ko": "~의, ~한",
+        "en": "(particle)"
+      }
     ],
     "hanja": "과녁 적(的)",
     "pronTip": "이것은 나의(더, de) 것!",
@@ -230,8 +290,16 @@
     "pinyin": "diǎn",
     "koPron": "뎬",
     "meanings": [
-      { "pos": "명사", "ko": "시(시간)", "en": "O'clock" },
-      { "pos": "양사", "ko": "시(시간)", "en": "O'clock" }
+      {
+        "pos": "명사",
+        "ko": "시(시간)",
+        "en": "O'clock"
+      },
+      {
+        "pos": "양사",
+        "ko": "시(시간)",
+        "en": "O'clock"
+      }
     ],
     "hanja": "점 점(点)",
     "pronTip": "시계의 점(点)으로 시간을 보다.",
@@ -246,7 +314,11 @@
     "pinyin": "diànnǎo",
     "koPron": "뎬나오",
     "meanings": [
-      { "pos": "명사", "ko": "컴퓨터", "en": "Computer" }
+      {
+        "pos": "명사",
+        "ko": "컴퓨터",
+        "en": "Computer"
+      }
     ],
     "hanja": "번개 전(电), 뇌 뇌(脑)",
     "pronTip": "전기(电)로 작동하는 두뇌(脑).",
@@ -261,7 +333,11 @@
     "pinyin": "diànshì",
     "koPron": "뎬스",
     "meanings": [
-      { "pos": "명사", "ko": "텔레비전", "en": "TV" }
+      {
+        "pos": "명사",
+        "ko": "텔레비전",
+        "en": "TV"
+      }
     ],
     "hanja": "볼 시(视)",
     "pronTip": "전기(电)를 통해 보는(视) 것.",
@@ -276,7 +352,11 @@
     "pinyin": "diànyǐng",
     "koPron": "뎬잉",
     "meanings": [
-      { "pos": "명사", "ko": "영화", "en": "Movie" }
+      {
+        "pos": "명사",
+        "ko": "영화",
+        "en": "Movie"
+      }
     ],
     "hanja": "그림자 영(影)",
     "pronTip": "전기(电)로 그림자(影)를 보다.",
@@ -291,7 +371,11 @@
     "pinyin": "dōngxi",
     "koPron": "둥시",
     "meanings": [
-      { "pos": "명사", "ko": "물건", "en": "Thing" }
+      {
+        "pos": "명사",
+        "ko": "물건",
+        "en": "Thing"
+      }
     ],
     "hanja": "동녘 동(东), 서녘 서(西)",
     "pronTip": "동(东)서(西) 사방에서 파는 물건.",
@@ -306,7 +390,11 @@
     "pinyin": "dōu",
     "koPron": "도우",
     "meanings": [
-      { "pos": "부사", "ko": "모두", "en": "All" }
+      {
+        "pos": "부사",
+        "ko": "모두",
+        "en": "All"
+      }
     ],
     "hanja": "도읍 도(都)",
     "pronTip": "사람들이 모두 모인 도(dōu)읍.",
@@ -321,7 +409,11 @@
     "pinyin": "dú",
     "koPron": "두",
     "meanings": [
-      { "pos": "동사", "ko": "읽다", "en": "To Read" }
+      {
+        "pos": "동사",
+        "ko": "읽다",
+        "en": "To Read"
+      }
     ],
     "hanja": "읽을 독(读)",
     "pronTip": "책을 두(dú) 눈 부릅뜨고 읽다.",
@@ -336,7 +428,11 @@
     "pinyin": "duìbuqǐ",
     "koPron": "뚜에이부치",
     "meanings": [
-      { "pos": "인사말", "ko": "미안합니다", "en": "Sorry" }
+      {
+        "pos": "인사말",
+        "ko": "미안합니다",
+        "en": "Sorry"
+      }
     ],
     "hanja": "대할 대(对)",
     "pronTip": "고개를 들고 대할(对) 수 없다.",
@@ -351,7 +447,11 @@
     "pinyin": "duō",
     "koPron": "둬",
     "meanings": [
-      { "pos": "형용사", "ko": "많다", "en": "Many" }
+      {
+        "pos": "형용사",
+        "ko": "많다",
+        "en": "Many"
+      }
     ],
     "hanja": "많을 다(多)",
     "pronTip": "너무 많아서 둬(duō) 개씩 나누다.",
@@ -366,7 +466,11 @@
     "pinyin": "duōshao",
     "koPron": "둬사오",
     "meanings": [
-      { "pos": "대명사", "ko": "얼마, 몇", "en": "How much" }
+      {
+        "pos": "대명사",
+        "ko": "얼마, 몇",
+        "en": "How much"
+      }
     ],
     "hanja": "많을 다(多), 적을 소(少)",
     "pronTip": "많고(多) 적음(少)을 묻다.",
@@ -381,7 +485,11 @@
     "pinyin": "érzi",
     "koPron": "얼쯔",
     "meanings": [
-      { "pos": "명사", "ko": "아들", "en": "Son" }
+      {
+        "pos": "명사",
+        "ko": "아들",
+        "en": "Son"
+      }
     ],
     "hanja": "아이 아(儿), 아들 자(子)",
     "pronTip": "얼(ér)굴 잘생긴 내 아들 자(子)식.",
@@ -396,7 +504,11 @@
     "pinyin": "èr",
     "koPron": "얼",
     "meanings": [
-      { "pos": "수사", "ko": "둘, 2", "en": "Two" }
+      {
+        "pos": "수사",
+        "ko": "둘, 2",
+        "en": "Two"
+      }
     ],
     "hanja": "두 이(二)",
     "pronTip": "숫자 1, 2 = 이, 얼(èr).",
@@ -411,7 +523,11 @@
     "pinyin": "fàndiàn",
     "koPron": "판뎬",
     "meanings": [
-      { "pos": "명사", "ko": "식당, 호텔", "en": "Restaurant" }
+      {
+        "pos": "명사",
+        "ko": "식당, 호텔",
+        "en": "Restaurant"
+      }
     ],
     "hanja": "밥 반(饭), 가게 점(店)",
     "pronTip": "밥(饭)을 먹는 가게(店).",
@@ -426,7 +542,11 @@
     "pinyin": "fēijī",
     "koPron": "페이지",
     "meanings": [
-      { "pos": "명사", "ko": "비행기", "en": "Airplane" }
+      {
+        "pos": "명사",
+        "ko": "비행기",
+        "en": "Airplane"
+      }
     ],
     "hanja": "날 비(飞), 틀 기(机)",
     "pronTip": "하늘을 나는(飞) 기계(机).",
@@ -441,7 +561,11 @@
     "pinyin": "fēnzhōng",
     "koPron": "펀중",
     "meanings": [
-      { "pos": "양사", "ko": "분(시간)", "en": "Minute" }
+      {
+        "pos": "양사",
+        "ko": "분(시간)",
+        "en": "Minute"
+      }
     ],
     "hanja": "나눌 분(分), 쇠북 종(钟)",
     "pronTip": "시계(종 钟)를 잘게 나눈(分) 단위.",
@@ -456,7 +580,11 @@
     "pinyin": "gāoxìng",
     "koPron": "가오싱",
     "meanings": [
-      { "pos": "형용사", "ko": "기쁘다", "en": "Happy" }
+      {
+        "pos": "형용사",
+        "ko": "기쁘다",
+        "en": "Happy"
+      }
     ],
     "hanja": "높을 고(高), 일어날 흥(兴)",
     "pronTip": "흥(兴)이 높게(高) 일어나 기쁘다.",
@@ -471,7 +599,11 @@
     "pinyin": "ge",
     "koPron": "거",
     "meanings": [
-      { "pos": "양사", "ko": "개, 명", "en": "(measure word)" }
+      {
+        "pos": "양사",
+        "ko": "개, 명",
+        "en": "(measure word)"
+      }
     ],
     "hanja": "낱 개(个)",
     "pronTip": "한 개(ge) 두 개 셀 때의 그 '개'.",
@@ -486,8 +618,16 @@
     "pinyin": "gōngzuò",
     "koPron": "궁쭤",
     "meanings": [
-      { "pos": "동사", "ko": "일하다", "en": "To Work" },
-      { "pos": "명사", "ko": "직업", "en": "Job" }
+      {
+        "pos": "동사",
+        "ko": "일하다",
+        "en": "To Work"
+      },
+      {
+        "pos": "명사",
+        "ko": "직업",
+        "en": "Job"
+      }
     ],
     "hanja": "장인 공(工), 지을 작(作)",
     "pronTip": "공(工)장에서 작(作)업하며 일하다.",
@@ -502,7 +642,11 @@
     "pinyin": "gǒu",
     "koPron": "고우",
     "meanings": [
-      { "pos": "명사", "ko": "개, 강아지", "en": "Dog" }
+      {
+        "pos": "명사",
+        "ko": "개, 강아지",
+        "en": "Dog"
+      }
     ],
     "hanja": "개 구(狗)",
     "pronTip": "강아지가 꼬리를 꼬우(gǒu)며 반긴다.",
@@ -517,7 +661,11 @@
     "pinyin": "Hànyǔ",
     "koPron": "한위",
     "meanings": [
-      { "pos": "명사", "ko": "중국어", "en": "Chinese" }
+      {
+        "pos": "명사",
+        "ko": "중국어",
+        "en": "Chinese"
+      }
     ],
     "hanja": "한나라 한(汉), 말씀 어(语)",
     "pronTip": "한(汉)족의 언어(语) = 중국어.",
@@ -532,7 +680,11 @@
     "pinyin": "hǎo",
     "koPron": "하오",
     "meanings": [
-      { "pos": "형용사", "ko": "좋다", "en": "Good" }
+      {
+        "pos": "형용사",
+        "ko": "좋다",
+        "en": "Good"
+      }
     ],
     "hanja": "좋을 호(好)",
     "pronTip": "하오(hǎo)! 아주 좋다!",
@@ -547,7 +699,11 @@
     "pinyin": "hào",
     "koPron": "하오",
     "meanings": [
-      { "pos": "명사", "ko": "일, 날짜, 번호", "en": "Number" }
+      {
+        "pos": "명사",
+        "ko": "일, 날짜, 번호",
+        "en": "Number"
+      }
     ],
     "hanja": "이름 호(号)",
     "pronTip": "번호를 하오(hào)하고 부르다.",
@@ -562,7 +718,11 @@
     "pinyin": "hē",
     "koPron": "허",
     "meanings": [
-      { "pos": "동사", "ko": "마시다", "en": "To Drink" }
+      {
+        "pos": "동사",
+        "ko": "마시다",
+        "en": "To Drink"
+      }
     ],
     "hanja": "마실 갈(喝)",
     "pronTip": "허(hē) 기침하며 물을 마시다.",
@@ -577,8 +737,16 @@
     "pinyin": "hé",
     "koPron": "허",
     "meanings": [
-      { "pos": "전치사", "ko": "~와/과", "en": "With" },
-      { "pos": "접속사", "ko": "~와/과", "en": "And" }
+      {
+        "pos": "전치사",
+        "ko": "~와/과",
+        "en": "With"
+      },
+      {
+        "pos": "접속사",
+        "ko": "~와/과",
+        "en": "And"
+      }
     ],
     "hanja": "화할 화(和)",
     "pronTip": "너와 나, 허(hé)물 없이 지내다.",
@@ -593,7 +761,11 @@
     "pinyin": "hěn",
     "koPron": "헌",
     "meanings": [
-      { "pos": "부사", "ko": "매우", "en": "Very" }
+      {
+        "pos": "부사",
+        "ko": "매우",
+        "en": "Very"
+      }
     ],
     "hanja": "매우 흔(很)",
     "pronTip": "매우 헌(hěn) 물건이다.",
@@ -608,7 +780,11 @@
     "pinyin": "hòumiàn",
     "koPron": "호우몐",
     "meanings": [
-      { "pos": "명사", "ko": "뒤, 후방", "en": "Behind" }
+      {
+        "pos": "명사",
+        "ko": "뒤, 후방",
+        "en": "Behind"
+      }
     ],
     "hanja": "뒤 후(后), 낯 면(面)",
     "pronTip": "뒤에서 호우(hòu)! 하고 부르다.",
@@ -623,7 +799,11 @@
     "pinyin": "huí",
     "koPron": "후에이",
     "meanings": [
-      { "pos": "동사", "ko": "돌아가다", "en": "To Return" }
+      {
+        "pos": "동사",
+        "ko": "돌아가다",
+        "en": "To Return"
+      }
     ],
     "hanja": "돌아올 회(回)",
     "pronTip": "후에이(huí)리릭~ 돌아가다.",
@@ -638,7 +818,11 @@
     "pinyin": "huì",
     "koPron": "후에이",
     "meanings": [
-      { "pos": "조동사", "ko": "~할 수 있다", "en": "Can" }
+      {
+        "pos": "조동사",
+        "ko": "~할 수 있다",
+        "en": "Can"
+      }
     ],
     "hanja": "모일 회(会)",
     "pronTip": "나도 후에이(huì)딱 할 수 있어!",
@@ -653,7 +837,11 @@
     "pinyin": "jǐ",
     "koPron": "지",
     "meanings": [
-      { "pos": "대명사", "ko": "몇", "en": "How many" }
+      {
+        "pos": "대명사",
+        "ko": "몇",
+        "en": "How many"
+      }
     ],
     "hanja": "몇 기(几)",
     "pronTip": "이게 지(jǐ)금 몇 개야?",
@@ -668,8 +856,16 @@
     "pinyin": "jiā",
     "koPron": "지아",
     "meanings": [
-      { "pos": "명사", "ko": "집, 가정", "en": "Home" },
-      { "pos": "양사", "ko": "집, 가정", "en": "Home" }
+      {
+        "pos": "명사",
+        "ko": "집, 가정",
+        "en": "Home"
+      },
+      {
+        "pos": "양사",
+        "ko": "집, 가정",
+        "en": "Home"
+      }
     ],
     "hanja": "집 가(家)",
     "pronTip": "우리가 자(jiā)는 집.",
@@ -684,7 +880,11 @@
     "pinyin": "jiào",
     "koPron": "지아오",
     "meanings": [
-      { "pos": "동사", "ko": "~라고 부르다", "en": "To Be Called" }
+      {
+        "pos": "동사",
+        "ko": "~라고 부르다",
+        "en": "To Be Called"
+      }
     ],
     "hanja": "부를 교(叫)",
     "pronTip": "지아오(jiào)! 하고 큰 소리로 부르다.",
@@ -699,7 +899,11 @@
     "pinyin": "jīntiān",
     "koPron": "진퉨",
     "meanings": [
-      { "pos": "명사", "ko": "오늘", "en": "Today" }
+      {
+        "pos": "명사",
+        "ko": "오늘",
+        "en": "Today"
+      }
     ],
     "hanja": "이제 금(今), 하늘 천(天)",
     "pronTip": "진(jīn)짜 맑은 퉨(tiān) 하늘인 오늘.",
@@ -714,7 +918,11 @@
     "pinyin": "jiǔ",
     "koPron": "지우",
     "meanings": [
-      { "pos": "수사", "ko": "아홉, 9", "en": "Nine" }
+      {
+        "pos": "수사",
+        "ko": "아홉, 9",
+        "en": "Nine"
+      }
     ],
     "hanja": "아홉 구(九)",
     "pronTip": "지우(jiǔ)개 9개.",
@@ -729,7 +937,11 @@
     "pinyin": "kāi",
     "koPron": "카이",
     "meanings": [
-      { "pos": "동사", "ko": "열다", "en": "To Open" }
+      {
+        "pos": "동사",
+        "ko": "열다",
+        "en": "To Open"
+      }
     ],
     "hanja": "열 개(开)",
     "pronTip": "카(kāi)드를 대고 문을 열다.",
@@ -744,11 +956,15 @@
     "pinyin": "kàn",
     "koPron": "칸",
     "meanings": [
-      { "pos": "동사", "ko": "보다", "en": "To Watch" }
+      {
+        "pos": "동사",
+        "ko": "보다",
+        "en": "To Watch"
+      }
     ],
     "hanja": "볼 간(看)",
     "pronTip": "칸(kàn)칸이 자세히 보다.",
-    "charTip": "눈 목(目) 부수 위에 손 수(Hand)를 얹어서 햇빛을 가리고 멀리 바라보는 모습을 지칭합니다.",
+    "charTip": "눈 목(目) 부수 위에 손 수(手)를 얹어서 햇빛을 가리고 멀리 바라보는 모습을 지칭합니다.",
     "exZh": "看书。",
     "exPinyin": "Kàn shū.",
     "exMeaning": "책을 보다."
@@ -759,7 +975,11 @@
     "pinyin": "kànjiàn",
     "koPron": "칸지앤",
     "meanings": [
-      { "pos": "동사", "ko": "보다, 보이다", "en": "To See" }
+      {
+        "pos": "동사",
+        "ko": "보다, 보이다",
+        "en": "To See"
+      }
     ],
     "hanja": "볼 간(看), 볼 견(见)",
     "pronTip": "보고(kàn) 또 보다(jiàn).",
@@ -774,7 +994,11 @@
     "pinyin": "kuài",
     "koPron": "콰에이",
     "meanings": [
-      { "pos": "양사", "ko": "콰이 (화폐 단위)", "en": "(currency unit)" }
+      {
+        "pos": "양사",
+        "ko": "콰이 (화폐 단위)",
+        "en": "(currency unit)"
+      }
     ],
     "hanja": "흙덩이 괴(块)",
     "pronTip": "돈을 콰에이(kuài)크하게 쓰다.",
@@ -789,7 +1013,11 @@
     "pinyin": "lái",
     "koPron": "라이",
     "meanings": [
-      { "pos": "동사", "ko": "오다", "en": "To Come" }
+      {
+        "pos": "동사",
+        "ko": "오다",
+        "en": "To Come"
+      }
     ],
     "hanja": "올 래(来)",
     "pronTip": "나에게 라이(lái)~ 오라.",
@@ -804,7 +1032,11 @@
     "pinyin": "lǎoshī",
     "koPron": "라오스",
     "meanings": [
-      { "pos": "명사", "ko": "선생님", "en": "Teacher" }
+      {
+        "pos": "명사",
+        "ko": "선생님",
+        "en": "Teacher"
+      }
     ],
     "hanja": "늙을 노(老), 스승 사(师)",
     "pronTip": "라오스(lǎoshī)님이 가르쳐주시다.",
@@ -819,7 +1051,11 @@
     "pinyin": "le",
     "koPron": "러",
     "meanings": [
-      { "pos": "조사", "ko": "완료, 변화", "en": "(particle)" }
+      {
+        "pos": "조사",
+        "ko": "완료, 변화",
+        "en": "(particle)"
+      }
     ],
     "hanja": "마칠 료(了)",
     "pronTip": "다 끝났어 러(le)~",
@@ -834,7 +1070,11 @@
     "pinyin": "lěng",
     "koPron": "렁",
     "meanings": [
-      { "pos": "형용사", "ko": "춥다", "en": "Cold" }
+      {
+        "pos": "형용사",
+        "ko": "춥다",
+        "en": "Cold"
+      }
     ],
     "hanja": "찰 냉(冷)",
     "pronTip": "너무 추워서 몸이 렁(lěng)렁 떨리다.",
@@ -849,7 +1089,11 @@
     "pinyin": "lǐ",
     "koPron": "리",
     "meanings": [
-      { "pos": "명사", "ko": "안, 속", "en": "Inside" }
+      {
+        "pos": "명사",
+        "ko": "안, 속",
+        "en": "Inside"
+      }
     ],
     "hanja": "마을 리(里)",
     "pronTip": "이(lǐ) 안에 있다.",
@@ -864,7 +1108,11 @@
     "pinyin": "liù",
     "koPron": "리우",
     "meanings": [
-      { "pos": "수사", "ko": "여섯, 6", "en": "Six" }
+      {
+        "pos": "수사",
+        "ko": "여섯, 6",
+        "en": "Six"
+      }
     ],
     "hanja": "여섯 육(六)",
     "pronTip": "리우(liù)월은 6월.",
@@ -879,7 +1127,11 @@
     "pinyin": "māma",
     "koPron": "마마",
     "meanings": [
-      { "pos": "명사", "ko": "엄마", "en": "Mother" }
+      {
+        "pos": "명사",
+        "ko": "엄마",
+        "en": "Mother"
+      }
     ],
     "hanja": "어미 모(妈)",
     "pronTip": "마마(māma)는 엄마.",
@@ -894,7 +1146,11 @@
     "pinyin": "ma",
     "koPron": "마",
     "meanings": [
-      { "pos": "조사", "ko": "~입니까?", "en": "(question particle)" }
+      {
+        "pos": "조사",
+        "ko": "~입니까?",
+        "en": "(question particle)"
+      }
     ],
     "hanja": "의문조사 마(吗)",
     "pronTip": "맞아 마(ma)?",
@@ -909,7 +1165,11 @@
     "pinyin": "mǎi",
     "koPron": "마이",
     "meanings": [
-      { "pos": "동사", "ko": "사다", "en": "To Buy" }
+      {
+        "pos": "동사",
+        "ko": "사다",
+        "en": "To Buy"
+      }
     ],
     "hanja": "살 매(买)",
     "pronTip": "마이(mǎi)마이 사다.",
@@ -924,7 +1184,11 @@
     "pinyin": "māo",
     "koPron": "마오",
     "meanings": [
-      { "pos": "명사", "ko": "고양이", "en": "Cat" }
+      {
+        "pos": "명사",
+        "ko": "고양이",
+        "en": "Cat"
+      }
     ],
     "hanja": "고기 어/고양이 묘(猫)",
     "pronTip": "마오(māo) 하고 우는 고양이.",
@@ -939,7 +1203,11 @@
     "pinyin": "méi guānxi",
     "koPron": "메이 관시",
     "meanings": [
-      { "pos": "인사말", "ko": "괜찮습니다", "en": "It's okay" }
+      {
+        "pos": "인사말",
+        "ko": "괜찮습니다",
+        "en": "It's okay"
+      }
     ],
     "hanja": "관계 없음",
     "pronTip": "메이(méi) 구겨진 관시(guānxi)라도 괜찮다.",
@@ -954,8 +1222,16 @@
     "pinyin": "méiyǒu",
     "koPron": "메이요우",
     "meanings": [
-      { "pos": "동사", "ko": "없다", "en": "Don't have" },
-      { "pos": "부사", "ko": "하지 않았다", "en": "Didn't" }
+      {
+        "pos": "동사",
+        "ko": "없다",
+        "en": "Don't have"
+      },
+      {
+        "pos": "부사",
+        "ko": "하지 않았다",
+        "en": "Didn't"
+      }
     ],
     "hanja": "빠질 몰(没), 있을 유(有)",
     "pronTip": "있는 게 메이(méi) 요우(yǒu) (없다).",
@@ -970,7 +1246,11 @@
     "pinyin": "mǐfàn",
     "koPron": "미판",
     "meanings": [
-      { "pos": "명사", "ko": "쌀밥", "en": "Rice" }
+      {
+        "pos": "명사",
+        "ko": "쌀밥",
+        "en": "Rice"
+      }
     ],
     "hanja": "쌀 미(米), 밥 반(饭)",
     "pronTip": "미(mǐ)치게 맛있는 쌀 판(fàn).",
@@ -985,7 +1265,11 @@
     "pinyin": "míngzi",
     "koPron": "밍쯔",
     "meanings": [
-      { "pos": "명사", "ko": "이름", "en": "Name" }
+      {
+        "pos": "명사",
+        "ko": "이름",
+        "en": "Name"
+      }
     ],
     "hanja": "이름 명(名), 글자 자(字)",
     "pronTip": "내 밍쯔(míngzi)는 뭐야?",
@@ -1000,7 +1284,11 @@
     "pinyin": "míngtiān",
     "koPron": "밍퉨",
     "meanings": [
-      { "pos": "명사", "ko": "내일", "en": "Tomorrow" }
+      {
+        "pos": "명사",
+        "ko": "내일",
+        "en": "Tomorrow"
+      }
     ],
     "hanja": "밝을 명(明), 하늘 천(天)",
     "pronTip": "밍(míng)일 하늘(tiān)은 밝을 거다.",
@@ -1015,7 +1303,11 @@
     "pinyin": "nǎ",
     "koPron": "나",
     "meanings": [
-      { "pos": "대명사", "ko": "어느", "en": "Which" }
+      {
+        "pos": "대명사",
+        "ko": "어느",
+        "en": "Which"
+      }
     ],
     "hanja": "어찌 나(哪)",
     "pronTip": "나(nǎ)는 어느 것을 고를까?",
@@ -1030,7 +1322,11 @@
     "pinyin": "nǎr",
     "koPron": "나얼",
     "meanings": [
-      { "pos": "대명사", "ko": "어디", "en": "Where" }
+      {
+        "pos": "대명사",
+        "ko": "어디",
+        "en": "Where"
+      }
     ],
     "hanja": "어느 곳(哪儿)",
     "pronTip": "나얼(nǎr)로 갈까? (어디로 갈까?)",
@@ -1045,7 +1341,11 @@
     "pinyin": "nà",
     "koPron": "나",
     "meanings": [
-      { "pos": "대명사", "ko": "저것, 그것", "en": "That" }
+      {
+        "pos": "대명사",
+        "ko": "저것, 그것",
+        "en": "That"
+      }
     ],
     "hanja": "저 나(那)",
     "pronTip": "나(nà)는 저것이 좋아.",
@@ -1060,7 +1360,11 @@
     "pinyin": "ne",
     "koPron": "느어",
     "meanings": [
-      { "pos": "조사", "ko": "~는요?", "en": "(particle)" }
+      {
+        "pos": "조사",
+        "ko": "~는요?",
+        "en": "(particle)"
+      }
     ],
     "hanja": "어조사 니(呢)",
     "pronTip": "너(ne)는 어때?",
@@ -1075,7 +1379,11 @@
     "pinyin": "néng",
     "koPron": "넝",
     "meanings": [
-      { "pos": "조동사", "ko": "~할 수 있다", "en": "Can" }
+      {
+        "pos": "조동사",
+        "ko": "~할 수 있다",
+        "en": "Can"
+      }
     ],
     "hanja": "능할 능(能)",
     "pronTip": "재능(néng)이 있어 할 수 있다.",
@@ -1090,7 +1398,11 @@
     "pinyin": "nǐ",
     "koPron": "니",
     "meanings": [
-      { "pos": "대명사", "ko": "너, 당신", "en": "You" }
+      {
+        "pos": "대명사",
+        "ko": "너, 당신",
+        "en": "You"
+      }
     ],
     "hanja": "너 니(你)",
     "pronTip": "니(nǐ)가 해라.",
@@ -1105,8 +1417,16 @@
     "pinyin": "nián",
     "koPron": "니앤",
     "meanings": [
-      { "pos": "명사", "ko": "년, 해", "en": "Year" },
-      { "pos": "양사", "ko": "년, 해", "en": "Year" }
+      {
+        "pos": "명사",
+        "ko": "년, 해",
+        "en": "Year"
+      },
+      {
+        "pos": "양사",
+        "ko": "년, 해",
+        "en": "Year"
+      }
     ],
     "hanja": "해 년(年)",
     "pronTip": "올해 일어난 니앤(nián) 일.",
@@ -1121,7 +1441,11 @@
     "pinyin": "nǚ'ér",
     "koPron": "뉘얼",
     "meanings": [
-      { "pos": "명사", "ko": "딸", "en": "Daughter" }
+      {
+        "pos": "명사",
+        "ko": "딸",
+        "en": "Daughter"
+      }
     ],
     "hanja": "계집 녀(女), 아이 아(儿)",
     "pronTip": "예쁜 뉘얼(nǚ'ér) 같은 딸.",
@@ -1136,7 +1460,11 @@
     "pinyin": "péngyou",
     "koPron": "펑요우",
     "meanings": [
-      { "pos": "명사", "ko": "친구", "en": "Friend" }
+      {
+        "pos": "명사",
+        "ko": "친구",
+        "en": "Friend"
+      }
     ],
     "hanja": "벗 붕(朋), 벗 우(友)",
     "pronTip": "펑(péng)생 함께할 요우(you)정 같은 친구.",
@@ -1151,7 +1479,11 @@
     "pinyin": "piàoliang",
     "koPron": "피아오리앙",
     "meanings": [
-      { "pos": "형용사", "ko": "예쁘다", "en": "Beautiful" }
+      {
+        "pos": "형용사",
+        "ko": "예쁘다",
+        "en": "Beautiful"
+      }
     ],
     "hanja": "표류할 표(漂), 밝을 량(亮)",
     "pronTip": "피아오리앙(piàoliang)하게 예쁘네!",
@@ -1166,7 +1498,11 @@
     "pinyin": "píngguǒ",
     "koPron": "핑궈",
     "meanings": [
-      { "pos": "명사", "ko": "사과", "en": "Apple" }
+      {
+        "pos": "명사",
+        "ko": "사과",
+        "en": "Apple"
+      }
     ],
     "hanja": "사과 평(苹), 과실 과(果)",
     "pronTip": "핑궈(píngguǒ)르르 구르는 사과.",
@@ -1181,7 +1517,11 @@
     "pinyin": "qī",
     "koPron": "치",
     "meanings": [
-      { "pos": "수사", "ko": "일곱, 7", "en": "Seven" }
+      {
+        "pos": "수사",
+        "ko": "일곱, 7",
+        "en": "Seven"
+      }
     ],
     "hanja": "일곱 칠(七)",
     "pronTip": "치(qī)즈 7장.",
@@ -1196,7 +1536,11 @@
     "pinyin": "qián",
     "koPron": "치엔",
     "meanings": [
-      { "pos": "명사", "ko": "돈", "en": "Money" }
+      {
+        "pos": "명사",
+        "ko": "돈",
+        "en": "Money"
+      }
     ],
     "hanja": "돈 전(钱)",
     "pronTip": "치엔(qián) 챙기자, 돈!",
@@ -1211,7 +1555,11 @@
     "pinyin": "qiánmiàn",
     "koPron": "치엔미엔",
     "meanings": [
-      { "pos": "명사", "ko": "앞", "en": "Front" }
+      {
+        "pos": "명사",
+        "ko": "앞",
+        "en": "Front"
+      }
     ],
     "hanja": "앞 전(前), 낯 면(面)",
     "pronTip": "치엔(qián) 앞으로 가자.",
@@ -1226,7 +1574,11 @@
     "pinyin": "qǐng",
     "koPron": "칭",
     "meanings": [
-      { "pos": "동사", "ko": "청하다, ~해 주세요", "en": "Please" }
+      {
+        "pos": "동사",
+        "ko": "청하다, ~해 주세요",
+        "en": "Please"
+      }
     ],
     "hanja": "청할 청(请)",
     "pronTip": "칭(qǐng)찬하며 부탁하다.",
@@ -1241,7 +1593,11 @@
     "pinyin": "qù",
     "koPron": "취",
     "meanings": [
-      { "pos": "동사", "ko": "가다", "en": "To Go" }
+      {
+        "pos": "동사",
+        "ko": "가다",
+        "en": "To Go"
+      }
     ],
     "hanja": "갈 거(去)",
     "pronTip": "취(qù)직하러 가다.",
@@ -1256,7 +1612,11 @@
     "pinyin": "rè",
     "koPron": "러",
     "meanings": [
-      { "pos": "형용사", "ko": "뜨겁다, 덥다", "en": "Hot" }
+      {
+        "pos": "형용사",
+        "ko": "뜨겁다, 덥다",
+        "en": "Hot"
+      }
     ],
     "hanja": "더울 열(热)",
     "pronTip": "러(rè)닝머신 뛰어서 덥다.",
@@ -1271,7 +1631,11 @@
     "pinyin": "rén",
     "koPron": "런",
     "meanings": [
-      { "pos": "명사", "ko": "사람", "en": "Person" }
+      {
+        "pos": "명사",
+        "ko": "사람",
+        "en": "Person"
+      }
     ],
     "hanja": "사람 인(人)",
     "pronTip": "런(rén)닝하는 사람.",
@@ -1286,7 +1650,11 @@
     "pinyin": "rènshi",
     "koPron": "런스",
     "meanings": [
-      { "pos": "동사", "ko": "알다 (사람을)", "en": "To Know" }
+      {
+        "pos": "동사",
+        "ko": "알다 (사람을)",
+        "en": "To Know"
+      }
     ],
     "hanja": "알 인(认), 알 식(识)",
     "pronTip": "런스(rènshi)를 알게 되다.",
@@ -1301,7 +1669,11 @@
     "pinyin": "sān",
     "koPron": "싼",
     "meanings": [
-      { "pos": "수사", "ko": "셋, 3", "en": "Three" }
+      {
+        "pos": "수사",
+        "ko": "셋, 3",
+        "en": "Three"
+      }
     ],
     "hanja": "석 삼(三)",
     "pronTip": "물건이 싼(sān) 3개.",
@@ -1316,7 +1688,11 @@
     "pinyin": "shāngdiàn",
     "koPron": "샹뎬",
     "meanings": [
-      { "pos": "명사", "ko": "상점, 가게", "en": "Shop" }
+      {
+        "pos": "명사",
+        "ko": "상점, 가게",
+        "en": "Shop"
+      }
     ],
     "hanja": "장사 상(商), 가게 점(店)",
     "pronTip": "샹(shāng)들리에가 있는 상점.",
@@ -1331,8 +1707,16 @@
     "pinyin": "shàng",
     "koPron": "샹",
     "meanings": [
-      { "pos": "명사", "ko": "위", "en": "Up" },
-      { "pos": "동사", "ko": "오르다", "en": "To go up" }
+      {
+        "pos": "명사",
+        "ko": "위",
+        "en": "Up"
+      },
+      {
+        "pos": "동사",
+        "ko": "오르다",
+        "en": "To go up"
+      }
     ],
     "hanja": "윗 상(上)",
     "pronTip": "샹(shàng)들리에가 있는 위.",
@@ -1347,7 +1731,11 @@
     "pinyin": "shàngwǔ",
     "koPron": "샹우",
     "meanings": [
-      { "pos": "명사", "ko": "오전", "en": "Morning" }
+      {
+        "pos": "명사",
+        "ko": "오전",
+        "en": "Morning"
+      }
     ],
     "hanja": "윗 상(上), 낮 오(午)",
     "pronTip": "샹(shàng)쾌한 오전.",
@@ -1362,7 +1750,11 @@
     "pinyin": "shǎo",
     "koPron": "사오",
     "meanings": [
-      { "pos": "형용사", "ko": "적다", "en": "Few" }
+      {
+        "pos": "형용사",
+        "ko": "적다",
+        "en": "Few"
+      }
     ],
     "hanja": "적을 소(少)",
     "pronTip": "사오(shǎo)정 머리숱이 적다.",
@@ -1377,7 +1769,11 @@
     "pinyin": "shéi",
     "koPron": "셰이",
     "meanings": [
-      { "pos": "대명사", "ko": "누구", "en": "Who" }
+      {
+        "pos": "대명사",
+        "ko": "누구",
+        "en": "Who"
+      }
     ],
     "hanja": "누구 수(谁)",
     "pronTip": "누군지 셰이(shéi)어보자.",
@@ -1392,7 +1788,11 @@
     "pinyin": "shénme",
     "koPron": "션머",
     "meanings": [
-      { "pos": "대명사", "ko": "무엇", "en": "What" }
+      {
+        "pos": "대명사",
+        "ko": "무엇",
+        "en": "What"
+      }
     ],
     "hanja": "열 십(什), 어조사 마(么)",
     "pronTip": "이게 다 션머(shénme)?",
@@ -1407,7 +1807,11 @@
     "pinyin": "shí",
     "koPron": "스",
     "meanings": [
-      { "pos": "수사", "ko": "열, 10", "en": "Ten" }
+      {
+        "pos": "수사",
+        "ko": "열, 10",
+        "en": "Ten"
+      }
     ],
     "hanja": "열 십(十)",
     "pronTip": "스(shí)트레스 받는 10시간.",
@@ -1422,7 +1826,11 @@
     "pinyin": "shíhou",
     "koPron": "스호우",
     "meanings": [
-      { "pos": "명사", "ko": "시간, 때", "en": "Time" }
+      {
+        "pos": "명사",
+        "ko": "시간, 때",
+        "en": "Time"
+      }
     ],
     "hanja": "때 시(时), 기후 후(候)",
     "pronTip": "스호우(shíhou) 시호 시간에 만나.",
@@ -1437,7 +1845,11 @@
     "pinyin": "shì",
     "koPron": "스",
     "meanings": [
-      { "pos": "동사", "ko": "~이다, 맞다", "en": "To Be" }
+      {
+        "pos": "동사",
+        "ko": "~이다, 맞다",
+        "en": "To Be"
+      }
     ],
     "hanja": "옳을 시(Align)",
     "pronTip": "스(shì)! 맞습니다!",
@@ -1452,7 +1864,11 @@
     "pinyin": "shū",
     "koPron": "슈",
     "meanings": [
-      { "pos": "명사", "ko": "책", "en": "Book" }
+      {
+        "pos": "명사",
+        "ko": "책",
+        "en": "Book"
+      }
     ],
     "hanja": "글 서(书)",
     "pronTip": "슈(shū)퍼맨이 읽는 책.",
@@ -1467,7 +1883,11 @@
     "pinyin": "shuǐ",
     "koPron": "슈이",
     "meanings": [
-      { "pos": "명사", "ko": "물", "en": "Water" }
+      {
+        "pos": "명사",
+        "ko": "물",
+        "en": "Water"
+      }
     ],
     "hanja": "물 수(水)",
     "pronTip": "슈이(shuǐ)영장에서 물장구.",
@@ -1482,7 +1902,11 @@
     "pinyin": "shuǐguǒ",
     "koPron": "슈이궈",
     "meanings": [
-      { "pos": "명사", "ko": "과일", "en": "Fruit" }
+      {
+        "pos": "명사",
+        "ko": "과일",
+        "en": "Fruit"
+      }
     ],
     "hanja": "물 수(水), 과실 과(果)",
     "pronTip": "슈이궈(shuǐguǒ) 달콤한 과일.",
@@ -1497,7 +1921,11 @@
     "pinyin": "shuìjiào",
     "koPron": "슈이지아오",
     "meanings": [
-      { "pos": "동사", "ko": "자다", "en": "To Sleep" }
+      {
+        "pos": "동사",
+        "ko": "자다",
+        "en": "To Sleep"
+      }
     ],
     "hanja": "잘 수(睡), 깰 각(觉)",
     "pronTip": "슈이지아오(shuìjiào) 푹 자다.",
@@ -1512,7 +1940,11 @@
     "pinyin": "shuō",
     "koPron": "슈오",
     "meanings": [
-      { "pos": "동사", "ko": "말하다", "en": "To Speak" }
+      {
+        "pos": "동사",
+        "ko": "말하다",
+        "en": "To Speak"
+      }
     ],
     "hanja": "말씀 설(说)",
     "pronTip": "슈오(shuō)리 지르며 말하다.",
@@ -1527,7 +1959,11 @@
     "pinyin": "sì",
     "koPron": "쓰",
     "meanings": [
-      { "pos": "수사", "ko": "넷, 4", "en": "Four" }
+      {
+        "pos": "수사",
+        "ko": "넷, 4",
+        "en": "Four"
+      }
     ],
     "hanja": "넉 사(四)",
     "pronTip": "쓰(sì)레기 4봉지.",
@@ -1542,7 +1978,11 @@
     "pinyin": "suì",
     "koPron": "쑤이",
     "meanings": [
-      { "pos": "양사", "ko": "살, 세 (나이)", "en": "Years old" }
+      {
+        "pos": "양사",
+        "ko": "살, 세 (나이)",
+        "en": "Years old"
+      }
     ],
     "hanja": "해 세(岁)",
     "pronTip": "쑤이(suì)월이 흘러 나이를 먹다.",
@@ -1557,7 +1997,11 @@
     "pinyin": "tā",
     "koPron": "타",
     "meanings": [
-      { "pos": "대명사", "ko": "그 (남자)", "en": "He" }
+      {
+        "pos": "대명사",
+        "ko": "그 (남자)",
+        "en": "He"
+      }
     ],
     "hanja": "다를 타(他)",
     "pronTip": "타(tā)인인 그 남자.",
@@ -1572,7 +2016,11 @@
     "pinyin": "tā",
     "koPron": "타",
     "meanings": [
-      { "pos": "대명사", "ko": "그녀", "en": "She" }
+      {
+        "pos": "대명사",
+        "ko": "그녀",
+        "en": "She"
+      }
     ],
     "hanja": "다를 타(她)",
     "pronTip": "타(tā)인인 그녀.",
@@ -1587,7 +2035,11 @@
     "pinyin": "tài",
     "koPron": "타이",
     "meanings": [
-      { "pos": "부사", "ko": "너무, 몹시", "en": "Too" }
+      {
+        "pos": "부사",
+        "ko": "너무, 몹시",
+        "en": "Too"
+      }
     ],
     "hanja": "클 태(太)",
     "pronTip": "타이(tài)밍이 너무 좋다.",
@@ -1602,7 +2054,11 @@
     "pinyin": "tiānqì",
     "koPron": "퉨치",
     "meanings": [
-      { "pos": "명사", "ko": "날씨", "en": "Weather" }
+      {
+        "pos": "명사",
+        "ko": "날씨",
+        "en": "Weather"
+      }
     ],
     "hanja": "하늘 천(天), 기운 기(气)",
     "pronTip": "퉨치(tiānqì)가 참 맑네.",
@@ -1617,7 +2073,11 @@
     "pinyin": "tīng",
     "koPron": "팅",
     "meanings": [
-      { "pos": "동사", "ko": "듣다", "en": "To Listen" }
+      {
+        "pos": "동사",
+        "ko": "듣다",
+        "en": "To Listen"
+      }
     ],
     "hanja": "들을 청(听)",
     "pronTip": "음악을 팅(tīng)가팅가 듣다.",
@@ -1632,7 +2092,11 @@
     "pinyin": "tóngxué",
     "koPron": "퉁쉬에",
     "meanings": [
-      { "pos": "명사", "ko": "동창, 학우", "en": "Classmate" }
+      {
+        "pos": "명사",
+        "ko": "동창, 학우",
+        "en": "Classmate"
+      }
     ],
     "hanja": "같을 동(同), 배울 학(学)",
     "pronTip": "퉁쉬에(tóngxué)들 다 같이 모이자.",
@@ -1647,7 +2111,11 @@
     "pinyin": "wèi",
     "koPron": "웨이",
     "meanings": [
-      { "pos": "인사말", "ko": "여보세요", "en": "Hello (on phone)" }
+      {
+        "pos": "인사말",
+        "ko": "여보세요",
+        "en": "Hello (on phone)"
+      }
     ],
     "hanja": "먹일 위(喂)",
     "pronTip": "웨이(wèi) 여보세요?",
@@ -1662,7 +2130,11 @@
     "pinyin": "wǒ",
     "koPron": "워",
     "meanings": [
-      { "pos": "대명사", "ko": "나", "en": "Me" }
+      {
+        "pos": "대명사",
+        "ko": "나",
+        "en": "Me"
+      }
     ],
     "hanja": "나 아(我)",
     "pronTip": "워(wǒ)리어가 된 나.",
@@ -1677,7 +2149,11 @@
     "pinyin": "wǒmen",
     "koPron": "워먼",
     "meanings": [
-      { "pos": "대명사", "ko": "우리", "en": "We" }
+      {
+        "pos": "대명사",
+        "ko": "우리",
+        "en": "We"
+      }
     ],
     "hanja": "나 아(我), 무리 문(们)",
     "pronTip": "워먼(wǒmen) 다 같이 가자.",
@@ -1692,7 +2168,11 @@
     "pinyin": "wǔ",
     "koPron": "우",
     "meanings": [
-      { "pos": "수사", "ko": "다섯, 5", "en": "Five" }
+      {
+        "pos": "수사",
+        "ko": "다섯, 5",
+        "en": "Five"
+      }
     ],
     "hanja": "다섯 오(五)",
     "pronTip": "우(wǔ)리 다섯 명.",
@@ -1707,7 +2187,11 @@
     "pinyin": "xǐhuan",
     "koPron": "시환",
     "meanings": [
-      { "pos": "동사", "ko": "좋아하다", "en": "To Like" }
+      {
+        "pos": "동사",
+        "ko": "좋아하다",
+        "en": "To Like"
+      }
     ],
     "hanja": "기쁠 희(喜), 기쁠 환(欢)",
     "pronTip": "시환(xǐhuan)하게 웃으며 좋아하다.",
@@ -1722,8 +2206,16 @@
     "pinyin": "xià",
     "koPron": "시아",
     "meanings": [
-      { "pos": "명사", "ko": "아래", "en": "Down" },
-      { "pos": "동사", "ko": "내리다", "en": "To go down" }
+      {
+        "pos": "명사",
+        "ko": "아래",
+        "en": "Down"
+      },
+      {
+        "pos": "동사",
+        "ko": "내리다",
+        "en": "To go down"
+      }
     ],
     "hanja": "아래 하(下)",
     "pronTip": "시아(xià)래로 내려가자.",
@@ -1738,7 +2230,11 @@
     "pinyin": "xiàwǔ",
     "koPron": "시아우",
     "meanings": [
-      { "pos": "명사", "ko": "오후", "en": "Afternoon" }
+      {
+        "pos": "명사",
+        "ko": "오후",
+        "en": "Afternoon"
+      }
     ],
     "hanja": "아래 하(下), 낮 오(午)",
     "pronTip": "시아우(xiàwǔ)에는 좀 쉬자.",
@@ -1753,7 +2249,11 @@
     "pinyin": "xiàyǔ",
     "koPron": "시아위",
     "meanings": [
-      { "pos": "동사", "ko": "비가 내리다", "en": "To Rain" }
+      {
+        "pos": "동사",
+        "ko": "비가 내리다",
+        "en": "To Rain"
+      }
     ],
     "hanja": "아래 하(下), 비 우(雨)",
     "pronTip": "비가 시아위(xiàyǔ)로 내리네.",
@@ -1768,7 +2268,11 @@
     "pinyin": "xiānsheng",
     "koPron": "시엔셩",
     "meanings": [
-      { "pos": "명사", "ko": "~씨, 남편", "en": "Mr." }
+      {
+        "pos": "명사",
+        "ko": "~씨, 남편",
+        "en": "Mr."
+      }
     ],
     "hanja": "먼저 선(先), 날 생(生)",
     "pronTip": "시엔셩(xiānsheng)님 먼저 가시죠.",
@@ -1783,7 +2287,11 @@
     "pinyin": "xiànzài",
     "koPron": "시엔짜이",
     "meanings": [
-      { "pos": "명사", "ko": "현재, 지금", "en": "Now" }
+      {
+        "pos": "명사",
+        "ko": "현재, 지금",
+        "en": "Now"
+      }
     ],
     "hanja": "나타날 현(现), 있을 재(在)",
     "pronTip": "시엔짜이(xiànzài) 지금 당장!",
@@ -1798,8 +2306,16 @@
     "pinyin": "xiǎng",
     "koPron": "시앙",
     "meanings": [
-      { "pos": "조동사", "ko": "~하고 싶다", "en": "Want to" },
-      { "pos": "동사", "ko": "생각하다", "en": "To think" }
+      {
+        "pos": "조동사",
+        "ko": "~하고 싶다",
+        "en": "Want to"
+      },
+      {
+        "pos": "동사",
+        "ko": "생각하다",
+        "en": "To think"
+      }
     ],
     "hanja": "생각할 상(想)",
     "pronTip": "시앙(xiǎng)상해 보니 하고 싶다.",
@@ -1814,7 +2330,11 @@
     "pinyin": "xiǎo",
     "koPron": "시아오",
     "meanings": [
-      { "pos": "형용사", "ko": "작다, 어리다", "en": "Small" }
+      {
+        "pos": "형용사",
+        "ko": "작다, 어리다",
+        "en": "Small"
+      }
     ],
     "hanja": "작을 소(小)",
     "pronTip": "시아오(xiǎo)소하게 작네.",
@@ -1829,7 +2349,11 @@
     "pinyin": "xiǎojiě",
     "koPron": "시아오지에",
     "meanings": [
-      { "pos": "명사", "ko": "아가씨", "en": "Miss" }
+      {
+        "pos": "명사",
+        "ko": "아가씨",
+        "en": "Miss"
+      }
     ],
     "hanja": "작을 소(小), 누이 저(姐)",
     "pronTip": "시아오지에(xiǎojiě) 예쁜 아가씨.",
@@ -1844,7 +2368,11 @@
     "pinyin": "xiē",
     "koPron": "시에",
     "meanings": [
-      { "pos": "양사", "ko": "조금, 약간", "en": "Some" }
+      {
+        "pos": "양사",
+        "ko": "조금, 약간",
+        "en": "Some"
+      }
     ],
     "hanja": "적을 사(些)",
     "pronTip": "시에(xiē)시에, 조금만 줄게.",
@@ -1859,7 +2387,11 @@
     "pinyin": "xiě",
     "koPron": "시에",
     "meanings": [
-      { "pos": "동사", "ko": "쓰다", "en": "To Write" }
+      {
+        "pos": "동사",
+        "ko": "쓰다",
+        "en": "To Write"
+      }
     ],
     "hanja": "베낄 사(写)",
     "pronTip": "글씨를 시에(xiě)서 쓰다.",
@@ -1874,7 +2406,11 @@
     "pinyin": "xièxie",
     "koPron": "씨에씨에",
     "meanings": [
-      { "pos": "인사말", "ko": "고맙습니다", "en": "Thank you" }
+      {
+        "pos": "인사말",
+        "ko": "고맙습니다",
+        "en": "Thank you"
+      }
     ],
     "hanja": "사례할 사(谢)",
     "pronTip": "씨에씨에(xièxie) 감사합니다.",
@@ -1889,7 +2425,11 @@
     "pinyin": "xīngqī",
     "koPron": "싱치",
     "meanings": [
-      { "pos": "명사", "ko": "주, 요일", "en": "Week" }
+      {
+        "pos": "명사",
+        "ko": "주, 요일",
+        "en": "Week"
+      }
     ],
     "hanja": "별 성(星), 기약할 기(期)",
     "pronTip": "싱치(xīngqī)일엔 뭐하지?",
@@ -1904,7 +2444,11 @@
     "pinyin": "xuésheng",
     "koPron": "쉬에셩",
     "meanings": [
-      { "pos": "명사", "ko": "학생", "en": "Student" }
+      {
+        "pos": "명사",
+        "ko": "학생",
+        "en": "Student"
+      }
     ],
     "hanja": "배울 학(学), 날 생(生)",
     "pronTip": "쉬에셩(xuésheng)은 학교에 가야지.",
@@ -1919,7 +2463,11 @@
     "pinyin": "xueéxí",
     "koPron": "쉬에씨",
     "meanings": [
-      { "pos": "동사", "ko": "배우다", "en": "To Study" }
+      {
+        "pos": "동사",
+        "ko": "배우다",
+        "en": "To Study"
+      }
     ],
     "hanja": "배울 학(学), 익힐 습(习)",
     "pronTip": "쉬에씨(xueéxí)하고 익히자.",
@@ -1934,7 +2482,11 @@
     "pinyin": "xuéxiào",
     "koPron": "쉬에시아오",
     "meanings": [
-      { "pos": "명사", "ko": "학교", "en": "School" }
+      {
+        "pos": "명사",
+        "ko": "학교",
+        "en": "School"
+      }
     ],
     "hanja": "배울 학(学), 학교 교(校)",
     "pronTip": "쉬에시아오(xuéxiào) 학교 가는 길.",
@@ -1949,7 +2501,11 @@
     "pinyin": "yī",
     "koPron": "이",
     "meanings": [
-      { "pos": "수사", "ko": "하나, 1", "en": "One" }
+      {
+        "pos": "수사",
+        "ko": "하나, 1",
+        "en": "One"
+      }
     ],
     "hanja": "한 일(一)",
     "pronTip": "이(yī)거 하나 줘.",
@@ -1964,7 +2520,11 @@
     "pinyin": "yìdiǎnr",
     "koPron": "이디엔얼",
     "meanings": [
-      { "pos": "명사", "ko": "조금", "en": "A little" }
+      {
+        "pos": "명사",
+        "ko": "조금",
+        "en": "A little"
+      }
     ],
     "hanja": "한 일(一), 점 점(点), 아이 아(儿)",
     "pronTip": "이디엔얼(yìdiǎnr) 조금만 주세요.",
@@ -1979,7 +2539,11 @@
     "pinyin": "yīfu",
     "koPron": "이푸",
     "meanings": [
-      { "pos": "명사", "ko": "옷", "en": "Clothes" }
+      {
+        "pos": "명사",
+        "ko": "옷",
+        "en": "Clothes"
+      }
     ],
     "hanja": "옷 의(衣), 옷 복(服)",
     "pronTip": "이푸(yīfu)른 옷.",
@@ -1994,7 +2558,11 @@
     "pinyin": "yīshēng",
     "koPron": "이셩",
     "meanings": [
-      { "pos": "명사", "ko": "의사", "en": "Doctor" }
+      {
+        "pos": "명사",
+        "ko": "의사",
+        "en": "Doctor"
+      }
     ],
     "hanja": "의원 의(医), 날 생(生)",
     "pronTip": "이셩(yīshēng)님 도와주세요.",
@@ -2009,7 +2577,11 @@
     "pinyin": "yīyuàn",
     "koPron": "이위엔",
     "meanings": [
-      { "pos": "명사", "ko": "병원", "en": "Hospital" }
+      {
+        "pos": "명사",
+        "ko": "병원",
+        "en": "Hospital"
+      }
     ],
     "hanja": "의원 의(医), 집 원(院)",
     "pronTip": "이위엔(yīyuàn) 병원으로 가자.",
@@ -2024,7 +2596,11 @@
     "pinyin": "yǐzi",
     "koPron": "이쯔",
     "meanings": [
-      { "pos": "명사", "ko": "의자", "en": "Chair" }
+      {
+        "pos": "명사",
+        "ko": "의자",
+        "en": "Chair"
+      }
     ],
     "hanja": "의자 의(椅), 아들 자(子)",
     "pronTip": "이쯔(yǐzi)에 앉자.",
@@ -2039,7 +2615,11 @@
     "pinyin": "yǒu",
     "koPron": "요우",
     "meanings": [
-      { "pos": "동사", "ko": "있다, 소유하다", "en": "Have" }
+      {
+        "pos": "동사",
+        "ko": "있다, 소유하다",
+        "en": "Have"
+      }
     ],
     "hanja": "있을 유(有)",
     "pronTip": "요우(yǒu)! 나 있어!",
@@ -2054,8 +2634,16 @@
     "pinyin": "yuè",
     "koPron": "위에",
     "meanings": [
-      { "pos": "명사", "ko": "달, 월", "en": "Month" },
-      { "pos": "양사", "ko": "달, 월", "en": "Month" }
+      {
+        "pos": "명사",
+        "ko": "달, 월",
+        "en": "Month"
+      },
+      {
+        "pos": "양사",
+        "ko": "달, 월",
+        "en": "Month"
+      }
     ],
     "hanja": "달 월(月)",
     "pronTip": "위에(yuè) 떠 있는 달.",
@@ -2070,8 +2658,16 @@
     "pinyin": "zài",
     "koPron": "짜이",
     "meanings": [
-      { "pos": "전치사", "ko": "~에서", "en": "At" },
-      { "pos": "동사", "ko": "~에 있다", "en": "To be at" }
+      {
+        "pos": "전치사",
+        "ko": "~에서",
+        "en": "At"
+      },
+      {
+        "pos": "동사",
+        "ko": "~에 있다",
+        "en": "To be at"
+      }
     ],
     "hanja": "있을 재(在)",
     "pronTip": "짜이(zài)리에 앉아 있다.",
@@ -2086,7 +2682,11 @@
     "pinyin": "zàijiàn",
     "koPron": "짜이지엔",
     "meanings": [
-      { "pos": "인사말", "ko": "잘 가, 안녕", "en": "Goodbye" }
+      {
+        "pos": "인사말",
+        "ko": "잘 가, 안녕",
+        "en": "Goodbye"
+      }
     ],
     "hanja": "다시 재(再), 볼 견(见)",
     "pronTip": "짜이지엔(zà이지엔), 나중에 또 봐.",
@@ -2101,7 +2701,11 @@
     "pinyin": "zěnme",
     "koPron": "쩐머",
     "meanings": [
-      { "pos": "대명사", "ko": "어떻게", "en": "How" }
+      {
+        "pos": "대명사",
+        "ko": "어떻게",
+        "en": "How"
+      }
     ],
     "hanja": "어찌 전(怎), 어조사 마(么)",
     "pronTip": "쩐머(zěnme) 이런 일이?",
@@ -2116,7 +2720,11 @@
     "pinyin": "z&nbsp;ěnmeyàng",
     "koPron": "쩐머양",
     "meanings": [
-      { "pos": "대명사", "ko": "어떠하다", "en": "How about" }
+      {
+        "pos": "대명사",
+        "ko": "어떠하다",
+        "en": "How about"
+      }
     ],
     "hanja": "어찌 전(怎), 어조사 마(么), 모양 양(样)",
     "pronTip": "쩐머양(zěnmeyàng)? 괜찮아?",
@@ -2131,7 +2739,11 @@
     "pinyin": "zhè",
     "koPron": "쩌",
     "meanings": [
-      { "pos": "대명사", "ko": "이것", "en": "This" }
+      {
+        "pos": "대명사",
+        "ko": "이것",
+        "en": "This"
+      }
     ],
     "hanja": "이 저(这)",
     "pronTip": "쩌(zhè)것 주세요.",
@@ -2146,7 +2758,11 @@
     "pinyin": "Zhōngguó",
     "koPron": "쭝궈",
     "meanings": [
-      { "pos": "명사", "ko": "중국", "en": "China" }
+      {
+        "pos": "명사",
+        "ko": "중국",
+        "en": "China"
+      }
     ],
     "hanja": "가운데 중(中), 나라 국(国)",
     "pronTip": "쭝궈(Zhōngguó) 사람.",
@@ -2161,7 +2777,11 @@
     "pinyin": "zhōngwǔ",
     "koPron": "쭝우",
     "meanings": [
-      { "pos": "명사", "ko": "정오, 한낮", "en": "Noon" }
+      {
+        "pos": "명사",
+        "ko": "정오, 한낮",
+        "en": "Noon"
+      }
     ],
     "hanja": "가운데 중(中), 낮 오(午)",
     "pronTip": "쭝우(zhōngwǔ)에 점심 먹자.",
@@ -2176,7 +2796,11 @@
     "pinyin": "zhù",
     "koPron": "쭈",
     "meanings": [
-      { "pos": "동사", "ko": "살다, 거주하다", "en": "To Live" }
+      {
+        "pos": "동사",
+        "ko": "살다, 거주하다",
+        "en": "To Live"
+      }
     ],
     "hanja": "살 주(住)",
     "pronTip": "쭈(zhù)욱 여기서 살다.",
@@ -2191,7 +2815,11 @@
     "pinyin": "zhuōzi",
     "koPron": "쭈어쯔",
     "meanings": [
-      { "pos": "명사", "ko": "책상, 탁자", "en": "Table" }
+      {
+        "pos": "명사",
+        "ko": "책상, 탁자",
+        "en": "Table"
+      }
     ],
     "hanja": "탁자 탁(桌), 아들 자(子)",
     "pronTip": "쭈어쯔(zhuōzi) 위에 올려놔.",
@@ -2206,7 +2834,11 @@
     "pinyin": "zì",
     "koPron": "쯔",
     "meanings": [
-      { "pos": "명사", "ko": "글자", "en": "Character" }
+      {
+        "pos": "명사",
+        "ko": "글자",
+        "en": "Character"
+      }
     ],
     "hanja": "글자 자(字)",
     "pronTip": "쯔(zì)를 쓰자.",
@@ -2221,7 +2853,11 @@
     "pinyin": "zuótiān",
     "koPron": "쭈어퉨",
     "meanings": [
-      { "pos": "명사", "ko": "어제", "en": "Yesterday" }
+      {
+        "pos": "명사",
+        "ko": "어제",
+        "en": "Yesterday"
+      }
     ],
     "hanja": "어제 작(昨), 하늘 천(天)",
     "pronTip": "쭈어퉨(zuótiān) 일은 잊어버려.",
@@ -2236,7 +2872,11 @@
     "pinyin": "zuò",
     "koPron": "쭈어",
     "meanings": [
-      { "pos": "동사", "ko": "앉다", "en": "To Sit" }
+      {
+        "pos": "동사",
+        "ko": "앉다",
+        "en": "To Sit"
+      }
     ],
     "hanja": "앉을 좌(坐)",
     "pronTip": "쭈어(zuò)리에 앉아라.",
@@ -2251,7 +2891,11 @@
     "pinyin": "zuò",
     "koPron": "쭈어",
     "meanings": [
-      { "pos": "동사", "ko": "하다, 만들다", "en": "To Do" }
+      {
+        "pos": "동사",
+        "ko": "하다, 만들다",
+        "en": "To Do"
+      }
     ],
     "hanja": "지을 작(做)",
     "pronTip": "쭈어(zuò)서 만들다.",

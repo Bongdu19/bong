@@ -126,11 +126,10 @@
         window.onload = function() {
             document.getElementById('headerTitle').innerText = `🗣️ HSK ${level}급 어구 예문`;
             
-            loadMasterDictionary(level)
+            loadMasterDictionary('all')
             .then(() => {
-                return fetch(`./data/hsk${level}_sentences.json`);
+                return fetchJsonData(`hsk${level}_sentences.json`);
             })
-            .then(res => res.json())
             .then(data => {
                 rawData = data;
                 const filter = document.getElementById('catFilter');
@@ -140,7 +139,10 @@
                 });
                 loadCategory(0);
             })
-            .catch(err => console.error("데이터 로드 실패:", err));
+            .catch(err => {
+                console.error("데이터 로드 실패:", err);
+                document.getElementById('phraseList').innerHTML = `<div style="text-align:center; padding:40px 0; color:#dc2626; font-weight:700;">데이터를 불러오는 중 오류가 발생했습니다.</div>`;
+            });
         };
 
         function loadCategory(idx) {
@@ -152,8 +154,8 @@
             currentSentences.forEach((s) => {
                 const dynamicHanziHtml = parseHanziToTooltip(s.hanzi);
                 // 따옴표 문자로 인한 스크립트 충돌 방지 이스케이프 안전 처리
-                const safeHanzi = (s.hanzi || '').replace(/'/g, "\\'");
-                const safeKorean = (s.korean || '').replace(/'/g, "\\'");
+                const safeHanzi = escapeForInlineJs(s.hanzi || '');
+                const safeKorean = escapeForInlineJs(s.korean || '');
 
                 container.innerHTML += `
                     <div class="phrase-card" id="p-card-${s.id}" onclick="speakSingle('${safeHanzi}', '${safeKorean}')">

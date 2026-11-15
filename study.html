@@ -172,6 +172,7 @@
             <div id="quizContainer" class="quiz-grid"></div>
         </div>
     </div>
+    <div id="tooltip" class="word-tooltip"></div>
 
     <script src="./js/word-core.js"></script>
     <script>
@@ -183,11 +184,36 @@
         let activeTab = 'study';
         let autoPlayTimer = null; 
 
+        function loadWrongSetFromStorage(level) {
+            wrongWordsSet.clear();
+            try {
+                const raw = localStorage.getItem(`hsk_wrong_${level}`);
+                if (raw) {
+                    const arr = JSON.parse(raw);
+                    if (Array.isArray(arr)) arr.forEach(n => wrongWordsSet.add(Number(n)));
+                }
+            } catch (e) {}
+        }
+
+        function saveWrongSetToStorage(level) {
+            try {
+                localStorage.setItem(`hsk_wrong_${level}`, JSON.stringify(Array.from(wrongWordsSet)));
+            } catch (e) {}
+            updateWrongFilterOptionLabel();
+        }
+
+        function updateWrongFilterOptionLabel() {
+            const wrongOpt = document.querySelector('#dayFilter option[value="wrong"]');
+            if (wrongOpt) {
+                wrongOpt.textContent = `❌ 집중 오답노트 필터링 (${wrongWordsSet.size}개)`;
+            }
+        }
+
         window.onload = function() {
             const urlParams = new URLSearchParams(window.location.search);
             const levelType = urlParams.get('type') || 'all';
             
-            const savedFilter = localStorage.getItem('hsk_current_filter');
+            const savedFilter = localStorage.getItem(`hsk_filter_${levelType}`);
             const savedTab = localStorage.getItem('hsk_active_tab');
             
             if (savedTab) activeTab = savedTab;
@@ -199,13 +225,13 @@
 
         function loadHskData(level, presetFilter = null) {
             currentLevel = level;
-            wrongWordsSet.clear(); 
+            loadWrongSetFromStorage(level);
             
             if (level === 'all' || level === 'pos') {
                 Promise.all([
-                    fetch('./data/hsk1.json').then(res => res.json()).then(data => data.map(w => ({...w, displayLevel: '1급'}))),
-                    fetch('./data/hsk2.json').then(res => res.json()).then(data => data.map(w => ({...w, displayLevel: '2급'}))),
-                    fetch('./data/hsk3.json').then(res => res.json()).then(data => data.map(w => ({...w, displayLevel: '3급'})))
+                    fetchJsonData('hsk1.json').then(data => data.map(w => ({...w, displayLevel: '1급'}))),
+                    fetchJsonData('hsk2.json').then(data => data.map(w => ({...w, displayLevel: '2급'}))),
+                    fetchJsonData('hsk3.json').then(data => data.map(w => ({...w, displayLevel: '3급'})))
                 ])
                 .then(datasets => {
                     allWords = [...datasets[0], ...datasets[1], ...datasets[2]];
@@ -218,22 +244,26 @@
                     }
                     
                     const filterDropdown = document.getElementById('dayFilter');
-                    if (presetFilter && filterDropdown.querySelector(`option[value="${presetFilter}"]`)) {
+                    const defaultFilter = (level === 'pos') ? 'pos_all' : (level === 'all' ? 'all_part1' : 'part1');
+                    if (presetFilter && filterDropdown.querySelector(`option[value="${presetFilter}"]`) && !(presetFilter === 'wrong' && wrongWordsSet.size === 0)) {
                         filterDropdown.value = presetFilter;
                     } else {
-                        filterDropdown.value = (level === 'pos') ? 'pos_all' : (level === 'all' ? 'all_part1' : 'part1');
+                        filterDropdown.value = defaultFilter;
                     }
 
                     switchTab(activeTab);
                     applyFilter(true);
+                })
+                .catch(err => {
+                    console.error("통합 데이터 로드 에러:", err);
+                    document.getElementById('studyContainer').innerHTML = `<div style="text-align:center; padding: 40px 0; color:var(--accent-red); font-weight:700;">데이터를 불러오는 데 실패했습니다.</div>`;
                 });
             } else {
                 const fileName = level === 'radical' ? 'radical.json' : `hsk${level}.json`;
                 const titleName = level === 'radical' ? '부수로 공부하는 중국어 단어' : `HSK ${level}급 단어 최종 마스터`;
                 const levelTag = level === 'radical' ? '부수' : `${level}급`;
 
-                fetch(`./data/${fileName}`)
-                    .then(response => response.json())
+                fetchJsonData(fileName)
                     .then(data => {
                         allWords = data.map(w => ({...w, displayLevel: levelTag}));
                         setupFilterOptions(level);
@@ -241,7 +271,7 @@
                         document.getElementById('hskTitleDisplay').innerText = titleName;
                         
                         const filterDropdown = document.getElementById('dayFilter');
-                        if (presetFilter && filterDropdown.querySelector(`option[value="${presetFilter}"]`)) {
+                        if (presetFilter && filterDropdown.querySelector(`option[value="${presetFilter}"]`) && !(presetFilter === 'wrong' && wrongWordsSet.size === 0)) {
                             filterDropdown.value = presetFilter;
                         } else {
                             filterDropdown.value = 'part1';
@@ -281,7 +311,7 @@
                     let count = allWords.filter(w => Array.isArray(w.meanings) && w.meanings.some(m => m.pos && m.pos.trim() === pos)).length;
                     options += `<option value="pos_${pos}">🏷️ [${pos}] 단어 모아보기 (${count}개)</option>`;
                 });
-                options += `<option value="wrong">❌ 집중 오답노트 필터링</option>`;
+                options += `<option value="wrong">❌ 집중 오답노트 필터링 (${wrongWordsSet.size}개)</option>`;
                 filter.innerHTML = options;
                 return;
             }
@@ -321,7 +351,7 @@
                     <option value="part6">6일차 트랙 (251~300번)</option>
                 `;
             }
-            options += `<option value="wrong">❌ 집중 오답노트 필터링</option>`;
+            options += `<option value="wrong">❌ 집중 오답노트 필터링 (${wrongWordsSet.size}개)</option>`;
             filter.innerHTML = options;
         }
 
@@ -391,7 +421,9 @@
             stopStudyAudio();
             
             const filterVal = document.getElementById('dayFilter').value;
-            if (!isInitialLoad) localStorage.setItem('hsk_current_filter', filterVal); 
+            if (!isInitialLoad && currentLevel) {
+                localStorage.setItem(`hsk_filter_${currentLevel}`, filterVal);
+            }
             
             currentFilteredWords = getFilteredWords();
             renderStudyCards(currentFilteredWords);
@@ -571,7 +603,7 @@
                 `;
                 
                 card.onclick = function(e) {
-                    if(e.target.tagName === 'BUTTON' || e.target.classList.contains('zh-clickable-char')) return;
+                    if(e.target.tagName === 'BUTTON' || e.target.classList.contains('zh-clickable-char') || e.target.classList.contains('zh-normal-char')) return;
                     const isFlippingToBack = !this.classList.contains('flipped');
                     this.classList.toggle('flipped');
                     if(autoPlayTimer) clearTimeout(autoPlayTimer);
@@ -623,6 +655,7 @@
                 if (cardFront) cardFront.classList.add('is-wrong');
                 if (btnWrong) { btnWrong.classList.add('marked'); btnWrong.innerText = '❌ 오답 취소하기'; }
             }
+            if (currentLevel) saveWrongSetToStorage(currentLevel);
             if (studyCard) {
                 const isWrong = wrongWordsSet.has(num);
                 studyCard.className = 'card' + (isWrong ? ' is-wrong' : '');
